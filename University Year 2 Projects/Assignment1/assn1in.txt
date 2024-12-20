@@ -1,0 +1,5 @@
+3
+4	A	C	G	T
+3	C	C	C
+5	T	A	T	A	T
+2	1

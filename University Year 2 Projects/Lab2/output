@@ -1,0 +1,20 @@
+Dextropropoxyphene	CCC(=O)O[C@@](CC1=CC=CC=C1)([C@H](C)CN(C)C)C1=CC=CC=C1	DB00647	approved; illicit; investigational; withdrawn
+Amyl Nitrite	CCCCCON=O	DB01612	approved
+Pyrophosphoric acid	OP(O)(=O)OP(O)(O)=O	DB04160	approved; experimental
+Pimavanserin	CC(C)COC1=CC=C(CNC(=O)N(CC2=CC=C(F)C=C2)C2CCN(C)CC2)C=C1	DB05316	approved; investigational
+Pazopanib	CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=CC=NC(NC2=CC=C(C)C(=C2)S(N)(=O)=O)=N1	DB06589	approved
+Apixaban	COC1=CC=C(C=C1)N1N=C(C(N)=O)C2=C1C(=O)N(CC2)C1=CC=C(C=C1)N1CCCCC1=O	DB06605	approved
+Besifloxacin	N[C@@H]1CCCCN(C1)C1=C(F)C=C2C(=O)C(=CN(C3CC3)C2=C1Cl)C(O)=O	DB06771	approved
+Chenodeoxycholic acid	[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(O)=O	DB06777	approved
+Linagliptin	CC#CCN1C(=NC2=C1C(=O)N(CC1=NC3=C(C=CC=C3)C(C)=N1)C(=O)N2C)N1CCC[C@@H](N)C1	DB08882	approved
+Afatinib	CN(C)C\C=C\C(=O)NC1=C(O[C@H]2CCOC2)C=C2N=CN=C(NC3=CC(Cl)=C(F)C=C3)C2=C1	DB08916	approved
+Vorapaxar	[H][C@@]12C[C@]3([H])C[C@@H](CC[C@@]3([H])[C@H](\C=C\C3=CC=C(C=N3)C3=CC(F)=CC=C3)[C@]1([H])[C@@H](C)OC2=O)NC(=O)OCC	DB09030	approved
+Tasimelteon	CCC(=O)NC[C@@H]1C[C@H]1C1=CC=CC2=C1CCO2	DB09071	approved; investigational
+Phosphoric acid	OP(O)(O)=O	DB09394	approved
+Diethylamino hydroxybenzoyl hexyl benzoate	CCCCCCOC(=O)C1=CC=CC=C1C(=O)C1=CC=C(C=C1O)N(CC)CC	DB11269	approved
+Pipradrol	[H]N1CCCCC1C(O)(C1=CC=CC=C1)C1=CC=CC=C1	DB11584	approved
+Normethadone	CCC(=O)C(CCN(C)C)(C1=CC=CC=C1)C1=CC=CC=C1	DB11609	approved; illicit
+Selumetinib	CN1C=NC2=C(F)C(NC3=C(Cl)C=C(Br)C=C3)=C(C=C12)C(=O)NOCCO	DB11689	approved; investigational
+Dihydralazine	NNC1=C2C=CC=CC2=C(NN)N=N1	DB12945	approved; experimental
+Solriamfetol	N[C@@H](COC(N)=O)CC1=CC=CC=C1	DB14754	approved
+Colchiceine	COC1=C(OC)C(OC)=C2C(CCC(NC(C)=O)C3=CC(=O)C(O)=CC=C23)=C1	DB15534	approved; experimental
